@@ -1,5 +1,7 @@
 # be-water-my-friend
 Coding challenge #102
+With colors, entities that move randomly and usage of OpenMP with 3 threads to speed up the process.
+The code isn't that gud tho, reading it feels like using C but with the advantages of the C++ standard library. I'm lazy to do more.
 
 # Dependencies
 * Get g++, any c++ distribution should be good to run this code
